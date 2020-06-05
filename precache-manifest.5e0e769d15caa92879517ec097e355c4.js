@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ad1366bb500abff5b61a8035b39bce1",
+    "revision": "9cfa98cac5a12db884be0e6c101fc246",
     "url": "/Minify/index.html"
   },
   {
-    "revision": "fa79a04bcc38a3e4e45c",
+    "revision": "94101235d86a0c91a9e4",
     "url": "/Minify/static/css/main.f190fc1a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Minify/static/js/2.667873c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa79a04bcc38a3e4e45c",
-    "url": "/Minify/static/js/main.143116a3.chunk.js"
+    "revision": "94101235d86a0c91a9e4",
+    "url": "/Minify/static/js/main.c11ea99e.chunk.js"
   },
   {
     "revision": "0145b996a8cae223352f",

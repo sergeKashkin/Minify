@@ -18,7 +18,7 @@ const authEndpoint = 'https://accounts.spotify.com/authorize';
 
 // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = 'cc7cef71a3044d7a90dd4665106411d4';
-const redirectUri = "http://sergeKashkin.github.io/Minify";
+const redirectUri = "https://sergeKashkin.github.io/Minify";
 const scopes = [
   'streaming',
   'user-read-email',
@@ -57,8 +57,8 @@ window.onSpotifyWebPlaybackSDKReady = () => {
 
       // Ready
       player.on('ready', data => {
-        console.log('Ready with Device ID');
-        //data.device_id
+        console.log('Ready with Device ID', data.device_id);
+
         //calls play function that plays Say You Will. can be replaced with generated playlist
 
         play(data.device_id);

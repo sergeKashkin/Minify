@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Minify/static/css/main.f190fc1a.chunk.css",
+    "main.js": "/Minify/static/js/main.143116a3.chunk.js",
+    "main.js.map": "/Minify/static/js/main.143116a3.chunk.js.map",
+    "runtime-main.js": "/Minify/static/js/runtime-main.e00a1cf8.js",
+    "runtime-main.js.map": "/Minify/static/js/runtime-main.e00a1cf8.js.map",
+    "static/js/2.667873c0.chunk.js": "/Minify/static/js/2.667873c0.chunk.js",
+    "static/js/2.667873c0.chunk.js.map": "/Minify/static/js/2.667873c0.chunk.js.map",
+    "index.html": "/Minify/index.html",
+    "precache-manifest.8e241f663b391613e39a7b1e0658c38e.js": "/Minify/precache-manifest.8e241f663b391613e39a7b1e0658c38e.js",
+    "service-worker.js": "/Minify/service-worker.js",
+    "static/css/main.f190fc1a.chunk.css.map": "/Minify/static/css/main.f190fc1a.chunk.css.map",
+    "static/js/2.667873c0.chunk.js.LICENSE.txt": "/Minify/static/js/2.667873c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e00a1cf8.js",
+    "static/js/2.667873c0.chunk.js",
+    "static/css/main.f190fc1a.chunk.css",
+    "static/js/main.143116a3.chunk.js"
+  ]
+}

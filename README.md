@@ -5,3 +5,6 @@ Minify plays music recommended for you based on your listening habits and shows 
 Made with React, and express.js.
 
 You need a Spotify account to use it.
+
+<img src="https://user-images.githubusercontent.com/39168159/83859255-51220000-a726-11ea-86df-84d95b9a5339.png" alt="Player" width="200"/>
+

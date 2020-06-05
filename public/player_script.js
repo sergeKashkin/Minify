@@ -58,9 +58,8 @@ window.onSpotifyWebPlaybackSDKReady = () => {
       // Ready
       player.on('ready', data => {
         console.log('Ready with Device ID', data.device_id);
-
+        //data.device_id
         //calls play function that plays Say You Will. can be replaced with generated playlist
-
         play(data.device_id);
       });
 
@@ -137,7 +136,7 @@ function shuffle() {
       'Content-Type': 'application/json',
       'Authorization': `Bearer ${_token}`
     }
-  }).then(response => console.log(response));
+  }).then(response => console.log());
 }
 
 //Fetch Recommendations

@@ -26,7 +26,7 @@ class Player extends Component {
                     <p id="current_track_name"></p>
                 </div>
                 <img id= "control" src="pause.png" className="playBtn" alt=""/>
-                <img id= "heart" src="Like.png" className="likeBtn" alt=""/>
+                <img id= "heart" src="like.png" className="likeBtn" alt=""/>
             </div>
         </div>
     )

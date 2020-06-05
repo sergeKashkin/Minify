@@ -53,7 +53,7 @@ window.onSpotifyWebPlaybackSDKReady = () => {
       player.addListener('playback_error', ({ message }) => { console.error(message); });
 
       // Playback status updates
-      player.addListener('player_state_changed', state => { console.log(state); });
+      player.addListener('player_state_changed', state => { console.log(); });
 
       // Ready
       player.on('ready', data => {

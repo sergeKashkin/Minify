@@ -57,7 +57,7 @@ window.onSpotifyWebPlaybackSDKReady = () => {
 
       // Ready
       player.on('ready', data => {
-        console.log('Ready with Device ID', data.device_id);
+        //console.log('Ready with Device ID', data.device_id);
         //data.device_id
         //calls play function that plays Say You Will. can be replaced with generated playlist
         play(data.device_id);
